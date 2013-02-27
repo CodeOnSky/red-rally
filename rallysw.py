@@ -1,8 +1,3 @@
-## Created file named "Feb_objectdata.txt" where the results are saved: (output is also printed when runs)
-## Results are in the form of tables
-##        --First table depicts task 1 and 2 
-##        --Second table depicts task 3 given in the exercise
-## For special case where year is 9999, which indicates its still in progress I have kept the time to current time
 
 
 
